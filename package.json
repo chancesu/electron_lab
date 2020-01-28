@@ -1,0 +1,28 @@
+{
+  "name": "electron_lab",
+  "version": "1.0.0",
+  "description": "electron study",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^7.1.9",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9",
+    "nedb": "^1.8.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chancesu/electron_lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chancesu/electron_lab/issues"
+  },
+  "homepage": "https://github.com/chancesu/electron_lab#readme"
+}
