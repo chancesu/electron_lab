@@ -22,4 +22,6 @@ if (!location.hash.length) {
   location.hash = "#/login";
 }
 
+// hashHistory.push("/rooms/1");
+
 render(appRouting, document.getElementById("app"));

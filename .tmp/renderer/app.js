@@ -46,4 +46,6 @@ if (!location.hash.length) {
   location.hash = "#/login";
 }
 
+// hashHistory.push("/rooms/1");
+
 (0, _reactDom.render)(appRouting, document.getElementById("app"));
